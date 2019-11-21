@@ -1,0 +1,44 @@
+
+body{
+
+
+    background-image : url("background-1747786_1280.jpg");
+}
+
+.border {
+
+
+border: 155 px solid transparent;
+
+}
+
+h1{
+
+color:black;
+
+}
+
+li{
+
+font: bold;
+font-size: 20px;
+
+}
+
+
+.title
+
+{
+
+font-size: 48;
+
+color: black;
+filter: blur (3 px);
+text-align: center;
+}
+
+footer {
+
+display: block;
+
+}
